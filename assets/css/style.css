@@ -1208,3 +1208,7 @@ section .container {
     font-size: 20px;
     text-decoration: underline;
 }
+
+#header .social-links a {
+    font-size: 21px;
+}
