@@ -1203,3 +1203,8 @@ section .container {
 #header.header-top {
     height: 90px;
 }
+
+.portfolio .portfolio-wrap .portfolio-links a {
+    font-size: 20px;
+    text-decoration: underline;
+}
