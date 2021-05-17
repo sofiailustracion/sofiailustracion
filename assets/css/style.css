@@ -1199,3 +1199,7 @@ section .container {
 #header.header-top .navbar {
     margin-left: 20px;
 }
+
+#header.header-top {
+    height: 90px;
+}
